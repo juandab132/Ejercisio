@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+  
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    background-color: #4b4b4b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+  
+main {
+    display: flex;
+    background-color: #f2f2f2;
+    padding: 20px;
+    min-height: 400px;
+}
+
+
+.links a {
+    display: block;
+    margin-bottom: 10px;
+    color: blue;
+    text-decoration: none;
+}
+
+
+.ciudad {
+    width: 80%;
+    padding: 10px;
+    background-color: white;
+}
+
+footer {
+    background-color: #4b4b4b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+  
